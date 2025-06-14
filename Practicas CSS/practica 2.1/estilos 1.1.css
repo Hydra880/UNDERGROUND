@@ -1,0 +1,21 @@
+*{
+  padding: 0;
+  margin:0;
+}
+
+body{
+    font-family: "Roboto";
+}
+    
+div{
+    height: 250px;
+    width: 30%;
+    border: 5px solid #03071e;
+    padding: 20px;
+
+    margin:20px;
+
+    background: orange;
+    text-align: center;
+
+}
