@@ -1,0 +1,10 @@
+body{
+    background: blue;
+}
+h1,h2,h3{
+    color: #a1a1a1;
+    text-align: center;}
+h1{
+    color: blue;
+    font-size: 30px;
+}
